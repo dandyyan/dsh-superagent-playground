@@ -2,7 +2,7 @@
 
 A throwaway repository for exercising dsh-superagent.
 
-## instal
+## Install
 
 ```
 npm install
